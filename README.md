@@ -30,7 +30,7 @@ Follow these instructions to get a local copy of the Faceless app up and running
 1. Clone the repository:
 
     ```
-    git clone https://github.com/LeonardTarigan/faceless.git
+    git clone https://github.com/Polongdev/faceless.git
     ```
 
 2. Navigate to the project directory:
